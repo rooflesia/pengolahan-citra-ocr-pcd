@@ -1,83 +1,87 @@
 import easyocr
-from PIL import Image, ImageEnhance
-import matplotlib.pyplot as plt
 import os
+import json
+import re
 
-
-def debug_image(image_path):
+def validate_plate_number(plate_text):
     """
-    Menampilkan gambar yang akan diproses untuk OCR.
+    Validasi format plat nomor Indonesia.
+    Format umum: B 1234 XYZ
     """
-    img = Image.open(image_path)
-    plt.imshow(img, cmap='gray')
-    plt.title("Input Image for OCR")
-    plt.axis('off')
-    plt.show()
-
-
-def enhance_contrast(image_path, output_path):
-    """
-    Meningkatkan kontras gambar untuk membuat teks lebih jelas.
-    """
-    img = Image.open(image_path)
-    enhancer = ImageEnhance.Contrast(img)
-    img = enhancer.enhance(2) 
-    img.save(output_path)
-    return output_path
+    pattern = r'^[A-Z]{1,2}\s\d{1,4}\s[A-Z]{1,3}$'
+    if re.match(pattern, plate_text):
+        return True
+    return False
 
 
 def read_text_from_image(image_path):
     """
-    Membaca teks dari gambar menggunakan EasyOCR.
+    Membaca teks dari gambar ROI menggunakan EasyOCR.
     """
-    reader = easyocr.Reader(['en', 'id'], gpu=True)  # Gunakan model bahasa Inggris dan Indonesia
-    results = reader.readtext(image_path, detail=1, decoder='greedy')
+    reader = easyocr.Reader(['en', 'id'], gpu=True)  # Gunakan GPU jika tersedia
+    results = reader.readtext(image_path, detail=1)
 
-    # Debugging hasil OCR
+    # Gabungkan semua hasil OCR menjadi string
     if results:
-        for (bbox, text, prob) in results:
-            print(f"Bounding Box: {bbox}, Teks: '{text}', Confidence: {prob}")
-        return " ".join([res[1] for res in results])  # Gabungkan semua teks yang terdeteksi
+        text = " ".join([res[1] for res in results])
+        print(f"Teks yang terdeteksi: {text}")
+
+        # Membagi teks menjadi tiga bagian
+        parts = text.split()
+        if len(parts) == 3:
+            part1, part2, part3 = parts[0], parts[1], parts[2]
+
+            # Aturan untuk array pertama
+            if part1 == '0':
+                part1 = 'D'
+            elif part1 == '6':
+                part1 = 'G'
+            elif part1 == '4':
+                part1 = 'A'
+
+            # Aturan untuk array kedua
+            if not part3.isdigit():
+                part3 = ''.join(['0' if char.isalpha() else char for char in part3])
+
+            # Gabungkan kembali bagian-bagian yang telah diubah
+            modified_text = f"{part1} {part2} {part3}"
+            print(f"Teks yang telah dimodifikasi: {modified_text}")
+            return modified_text
+        else:
+            print("Teks tidak sesuai format yang diharapkan (3 bagian).")
+            print(f"Teks yang terdeteksi: {text}")
+            return text
+        
     else:
-        print("Tidak ada teks yang terdeteksi.")
+        print(f"Tidak ada teks yang terdeteksi pada {image_path}")
         return ""
 
 
-def process_ocr(input_dir, output_dir):
+def process_ocr(input_dir, output_file):
     """
-    Memproses semua gambar di folder ROI dan menyimpan hasil OCR ke file.
+    Melakukan OCR pada semua gambar di folder ROI.
     """
-    os.makedirs(output_dir, exist_ok=True)  # Pastikan folder output ada
     ocr_results = {}
-
     for image_file in os.listdir(input_dir):
-        if image_file.endswith(".jpg") or image_file.endswith(".png"):
+        if image_file.endswith(".bmp") or image_file.endswith(".png"):
             image_path = os.path.join(input_dir, image_file)
-            
-            # Debug gambar awal
-            print(f"\nMemproses gambar: {image_file}")
-            debug_image(image_path)
+            print(f"Memproses OCR pada: {image_file}")
+            text = read_text_from_image(image_path)
 
-            # Langkah tambahan: Tingkatkan kontras
-            enhanced_path = enhance_contrast(image_path, f"{output_dir}/enhanced_{image_file}")
+            # Validasi hasil OCR
+            is_valid = validate_plate_number(text)
+            ocr_results[image_file] = {
+                "text": text,
+                "is_valid": is_valid
+            }
 
-            # OCR
-            plate_text = read_text_from_image(enhanced_path)
-            print(f"Hasil OCR untuk {image_file}: {plate_text}")
-
-            # Simpan hasil OCR
-            ocr_results[image_file] = plate_text
-
-    # Simpan semua hasil ke file JSON
-    output_json_path = os.path.join(output_dir, "ocr_results.json")
-    with open(output_json_path, 'w') as file:
-        import json
+    # Simpan hasil OCR ke file JSON
+    with open(output_file, 'w') as file:
         json.dump(ocr_results, file, indent=4)
-
-    print(f"Hasil OCR disimpan di: {output_json_path}")
+    print(f"Hasil OCR disimpan di: {output_file}")
 
 
 if __name__ == "__main__":
-    input_dir = "./data/processed/train/roi"  # Folder gambar ROI
-    output_dir = "./data/output/ocr_debug"   # Folder untuk hasil debugging dan OCR
-    process_ocr(input_dir, output_dir)
+    input_dir = "./data/train/roi"  # Folder ROI hasil deteksi
+    output_file = "./data/output/ocr_results_new.json"  # File hasil OCR
+    process_ocr(input_dir, output_file)

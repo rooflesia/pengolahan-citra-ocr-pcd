@@ -1,0 +1,119 @@
+[
+    {
+        "url": "https://transform.roboflow.com/wbAvzQqj0lUQqQ35eIgpPF1zeG23/025c0f8466e489f508327facda358c2c/transformed.jpg",
+        "width": 1280,
+        "height": 768,
+        "xmin": 28,
+        "ymin": 133,
+        "xmax": 1055,
+        "ymax": 554
+    },
+    {
+        "url": "https://transform.roboflow.com/wbAvzQqj0lUQqQ35eIgpPF1zeG23/03088d8822d78a449a948cc5fcf27e7f/transformed.jpg",
+        "width": 3264,
+        "height": 2448,
+        "xmin": 210,
+        "ymin": 472,
+        "xmax": 3105,
+        "ymax": 1607
+    },
+    {
+        "url": "https://transform.roboflow.com/wbAvzQqj0lUQqQ35eIgpPF1zeG23/041d4f31913d1afacc037b0133fb3bac/transformed.jpg",
+        "width": 4000,
+        "height": 3000,
+        "xmin": 1430,
+        "ymin": 1016,
+        "xmax": 3445,
+        "ymax": 1859
+    },
+    {
+        "url": "https://transform.roboflow.com/wbAvzQqj0lUQqQ35eIgpPF1zeG23/04b84b5cf3ee9a94c805c4d7b75a5d73/transformed.jpg",
+        "width": 620,
+        "height": 465,
+        "xmin": 260,
+        "ymin": 361,
+        "xmax": 419,
+        "ymax": 400
+    },
+    {
+        "url": "https://transform.roboflow.com/wbAvzQqj0lUQqQ35eIgpPF1zeG23/05a0e9483cfa85a74341a91134d453ce/transformed.jpg",
+        "width": 4000,
+        "height": 3000,
+        "xmin": 969,
+        "ymin": 891,
+        "xmax": 3273,
+        "ymax": 1820
+    },
+    {
+        "url": "https://transform.roboflow.com/wbAvzQqj0lUQqQ35eIgpPF1zeG23/09dc778357619dd68b08b26f3688eb87/transformed.jpg",
+        "width": 4000,
+        "height": 3000,
+        "xmin": 1031,
+        "ymin": 656,
+        "xmax": 3359,
+        "ymax": 1703
+    },
+    {
+        "url": "https://transform.roboflow.com/wbAvzQqj0lUQqQ35eIgpPF1zeG23/0a080caee9aabb4b4b4445bc9cfcf291/transformed.jpg",
+        "width": 640,
+        "height": 479,
+        "xmin": 466,
+        "ymin": 331,
+        "xmax": 555,
+        "ymax": 393
+    },
+    {
+        "url": "https://transform.roboflow.com/wbAvzQqj0lUQqQ35eIgpPF1zeG23/007b77ce19f3ed89ab8cdaa8149e8c48/transformed.jpg",
+        "width": 2448,
+        "height": 3264,
+        "xmin": 701,
+        "ymin": 1434,
+        "xmax": 1677,
+        "ymax": 1830
+    },
+    {
+        "url": "https://transform.roboflow.com/wbAvzQqj0lUQqQ35eIgpPF1zeG23/002b742f3394c28c1623fa0ab8951b85/transformed.jpg",
+        "width": 921,
+        "height": 691,
+        "xmin": 329,
+        "ymin": 567,
+        "xmax": 592,
+        "ymax": 637
+    },
+    {
+        "url": "https://transform.roboflow.com/wbAvzQqj0lUQqQ35eIgpPF1zeG23/0db52cf90ab45d6c5e7e94674d5268ce/transformed.jpg",
+        "width": 480,
+        "height": 270,
+        "xmin": 348,
+        "ymin": 170,
+        "xmax": 389,
+        "ymax": 203
+    },
+    {
+        "url": "https://transform.roboflow.com/wbAvzQqj0lUQqQ35eIgpPF1zeG23/0e25bc8b8d4e52bc9fd4abbf0d3b42b9/transformed.jpg",
+        "width": 1600,
+        "height": 1200,
+        "xmin": 438,
+        "ymin": 481,
+        "xmax": 1228,
+        "ymax": 741
+    },
+    {
+        "url": "https://transform.roboflow.com/wbAvzQqj0lUQqQ35eIgpPF1zeG23/0a9437397a2e5a6c4d423bfdc7d5bf12/transformed.jpg",
+        "width": 640,
+        "height": 425,
+        "xmin": 139,
+        "ymin": 195,
+        "xmax": 481,
+        "ymax": 322
+    },
+    {
+        "url": "https://transform.roboflow.com/wbAvzQqj0lUQqQ35eIgpPF1zeG23/06f16a6c4f95090f86ab4ced36725e19/transformed.jpg",
+        "width": 4000,
+        "height": 3000,
+        "xmin": 1563,
+        "ymin": 945,
+        "xmax": 3398,
+        "ymax": 1727
+    }
+]

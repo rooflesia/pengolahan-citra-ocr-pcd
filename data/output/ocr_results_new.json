@@ -1,0 +1,26 @@
+{
+    "roi_preprocessed_image_0.bmp": {
+        "text": "6 4539 Yo 1 1* 28",
+        "is_valid": false
+    },
+    "roi_preprocessed_image_1.bmp": {
+        "text": "H 3294 4N 0 8 23 C",
+        "is_valid": false
+    },
+    "roi_preprocessed_image_10.bmp": {
+        "text": "G 3938 HG 0 9 2 4",
+        "is_valid": false
+    },
+    "roi_preprocessed_image_11.bmp": {
+        "text": "S 1470 WJ 0",
+        "is_valid": false
+    },
+    "roi_preprocessed_image_12.bmp": {
+        "text": "H 4783 FI ! 12 02 ' 2l",
+        "is_valid": false
+    },
+    "roi_preprocessed_image_2.bmp": {
+        "text": "G 3779 AJFI 2 02 28",
+        "is_valid": false
+    }
+}

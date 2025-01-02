@@ -1,0 +1,1630 @@
+{
+    "roi_image_0.jpg": {
+        "text": "6 4539 Yo 1 1 ' 28",
+        "is_valid": false
+    },
+    "roi_image_1.jpg": {
+        "text": "H 3294 NC 0 8 23 K",
+        "is_valid": false
+    },
+    "roi_image_10.jpg": {
+        "text": "G 3938 hG 0 9 . 24",
+        "is_valid": false
+    },
+    "roi_image_100.jpg": {
+        "text": "DK 1259 'F 0 ] '23",
+        "is_valid": false
+    },
+    "roi_image_101.jpg": {
+        "text": "12 UL",
+        "is_valid": false
+    },
+    "roi_image_102.jpg": {
+        "text": "4 6136 06 23 VL",
+        "is_valid": false
+    },
+    "roi_image_103.jpg": {
+        "text": "H 4582 VP 09 26",
+        "is_valid": false
+    },
+    "roi_image_104.jpg": {
+        "text": "8   1579   KML 00 70",
+        "is_valid": false
+    },
+    "roi_image_105.jpg": {
+        "text": "4 4452 A1 08 ' 23",
+        "is_valid": false
+    },
+    "roi_image_106.jpg": {
+        "text": "1826 Cof} 4227",
+        "is_valid": false
+    },
+    "roi_image_107.jpg": {
+        "text": "1685  CkC",
+        "is_valid": false
+    },
+    "roi_image_108.jpg": {
+        "text": "[BK   1209 0",
+        "is_valid": false
+    },
+    "roi_image_109.jpg": {
+        "text": "KT 1227 LYI",
+        "is_valid": true
+    },
+    "roi_image_11.jpg": {
+        "text": "S 1470 WJ",
+        "is_valid": true
+    },
+    "roi_image_110.jpg": {
+        "text": "AD 6530 4 [D ' 06 26",
+        "is_valid": false
+    },
+    "roi_image_111.jpg": {
+        "text": "5661 eFZ : 0 2 '27 4",
+        "is_valid": false
+    },
+    "roi_image_112.jpg": {
+        "text": "H 4566 VF 1 0 1 .26 2",
+        "is_valid": false
+    },
+    "roi_image_113.jpg": {
+        "text": "2 6 5071 YV ' 02 25 ; 1",
+        "is_valid": false
+    },
+    "roi_image_114.jpg": {
+        "text": "H 888 SI",
+        "is_valid": true
+    },
+    "roi_image_115.jpg": {
+        "text": "D 1064 ABG",
+        "is_valid": true
+    },
+    "roi_image_116.jpg": {
+        "text": "F JCasF",
+        "is_valid": false
+    },
+    "roi_image_117.jpg": {
+        "text": "BE A 4795 224 05",
+        "is_valid": false
+    },
+    "roi_image_118.jpg": {
+        "text": "B 1260 TZT] 01: 1 8",
+        "is_valid": false
+    },
+    "roi_image_119.jpg": {
+        "text": "AD 2801 BV 0 5 2 5",
+        "is_valid": false
+    },
+    "roi_image_12.jpg": {
+        "text": "H 4783 FI 9 02 ' 2l",
+        "is_valid": false
+    },
+    "roi_image_120.jpg": {
+        "text": "B 1 RI 03 . 22",
+        "is_valid": false
+    },
+    "roi_image_121.jpg": {
+        "text": "PA 9506",
+        "is_valid": false
+    },
+    "roi_image_122.jpg": {
+        "text": "FI 1 7051",
+        "is_valid": false
+    },
+    "roi_image_123.jpg": {
+        "text": "H BK 0 8 2 4 2380",
+        "is_valid": false
+    },
+    "roi_image_124.jpg": {
+        "text": "H 6029 0K 08 2 7",
+        "is_valid": false
+    },
+    "roi_image_125.jpg": {
+        "text": "5379 GK ' 10 26 h",
+        "is_valid": false
+    },
+    "roi_image_126.jpg": {
+        "text": "8 % Ad3775 { 09 V 27",
+        "is_valid": false
+    },
+    "roi_image_127.jpg": {
+        "text": "ME DK 18 1596",
+        "is_valid": false
+    },
+    "roi_image_128.jpg": {
+        "text": "6602 HKI 06 0 27",
+        "is_valid": false
+    },
+    "roi_image_129.jpg": {
+        "text": "S 4073 JBO 8 zMEINS9 1 1 2 6",
+        "is_valid": false
+    },
+    "roi_image_13.jpg": {
+        "text": "H 3407 EK 0 8 2 5",
+        "is_valid": false
+    },
+    "roi_image_130.jpg": {
+        "text": "h 6 92 DKI 06 2 5 4",
+        "is_valid": false
+    },
+    "roi_image_131.jpg": {
+        "text": "H 3721 YB 08 27",
+        "is_valid": false
+    },
+    "roi_image_132.jpg": {
+        "text": "3864 ZB OL ' 28 H",
+        "is_valid": false
+    },
+    "roi_image_133.jpg": {
+        "text": "4 6496 GK 12 26 5",
+        "is_valid": false
+    },
+    "roi_image_134.jpg": {
+        "text": "KB   1081 BN",
+        "is_valid": false
+    },
+    "roi_image_135.jpg": {
+        "text": "B8642R",
+        "is_valid": false
+    },
+    "roi_image_136.jpg": {
+        "text": "8 1808 K8",
+        "is_valid": false
+    },
+    "roi_image_137.jpg": {
+        "text": "Bx HM 1953",
+        "is_valid": false
+    },
+    "roi_image_138.jpg": {
+        "text": "B 2252 BZU 05 ' 23",
+        "is_valid": false
+    },
+    "roi_image_139.jpg": {
+        "text": "[0K 818 FY",
+        "is_valid": false
+    },
+    "roi_image_14.jpg": {
+        "text": "H 2057 MK 06 24",
+        "is_valid": false
+    },
+    "roi_image_140.jpg": {
+        "text": "8 3670 KLA 06 ' 23",
+        "is_valid": false
+    },
+    "roi_image_141.jpg": {
+        "text": "h TB 2 06 .25 6414",
+        "is_valid": false
+    },
+    "roi_image_142.jpg": {
+        "text": "A 4931 cu] 09 26",
+        "is_valid": false
+    },
+    "roi_image_143.jpg": {
+        "text": "H 6240 0L . 28 AKC",
+        "is_valid": false
+    },
+    "roi_image_144.jpg": {
+        "text": "3499 KL ; @ 12 .23 4",
+        "is_valid": false
+    },
+    "roi_image_145.jpg": {
+        "text": "h 794] ASC 06 26",
+        "is_valid": false
+    },
+    "roi_image_146.jpg": {
+        "text": "H 6147 PV 5 05 0 25",
+        "is_valid": false
+    },
+    "roi_image_147.jpg": {
+        "text": "",
+        "is_valid": false
+    },
+    "roi_image_148.jpg": {
+        "text": "8 6760  BU0 10.23/",
+        "is_valid": false
+    },
+    "roi_image_149.jpg": {
+        "text": "704 b 2481",
+        "is_valid": false
+    },
+    "roi_image_15.jpg": {
+        "text": "[ox 1369 DP",
+        "is_valid": false
+    },
+    "roi_image_150.jpg": {
+        "text": "B 1015 SEA",
+        "is_valid": true
+    },
+    "roi_image_151.jpg": {
+        "text": "h 4701 ABC 2 10 ' 26",
+        "is_valid": false
+    },
+    "roi_image_152.jpg": {
+        "text": "H 5690 BB 0 1 2L",
+        "is_valid": false
+    },
+    "roi_image_153.jpg": {
+        "text": "G 2002 Nn 10,25",
+        "is_valid": false
+    },
+    "roi_image_154.jpg": {
+        "text": "AB 6628 YJ 9 09 27",
+        "is_valid": false
+    },
+    "roi_image_155.jpg": {
+        "text": "VTy Ok 8 H 2180 LK 3 10 .23",
+        "is_valid": false
+    },
+    "roi_image_156.jpg": {
+        "text": "BK 1206",
+        "is_valid": false
+    },
+    "roi_image_157.jpg": {
+        "text": "2359 Sv 08 ' 25 H",
+        "is_valid": false
+    },
+    "roi_image_158.jpg": {
+        "text": "H 3141 NB 09 0 24",
+        "is_valid": false
+    },
+    "roi_image_159.jpg": {
+        "text": "DK F 1109 11 * 24",
+        "is_valid": false
+    },
+    "roi_image_16.jpg": {
+        "text": "DK_1521 BC",
+        "is_valid": false
+    },
+    "roi_image_160.jpg": {
+        "text": "h 5856 FZ 09 0 25",
+        "is_valid": false
+    },
+    "roi_image_161.jpg": {
+        "text": "h 6302 JB 12 ' 26",
+        "is_valid": false
+    },
+    "roi_image_162.jpg": {
+        "text": "h 5457 UB 10 25",
+        "is_valid": false
+    },
+    "roi_image_163.jpg": {
+        "text": "5606 Ci ; 11  28 4",
+        "is_valid": false
+    },
+    "roi_image_164.jpg": {
+        "text": "6 6349 RZ 0 6.28",
+        "is_valid": false
+    },
+    "roi_image_165.jpg": {
+        "text": "2947 AKC 0 3 2 8 H",
+        "is_valid": false
+    },
+    "roi_image_166.jpg": {
+        "text": "H 4652 OK 05 2 7",
+        "is_valid": false
+    },
+    "roi_image_167.jpg": {
+        "text": "4 6943 LV 11 22",
+        "is_valid": false
+    },
+    "roi_image_168.jpg": {
+        "text": "Ti1l  TID",
+        "is_valid": false
+    },
+    "roi_image_169.jpg": {
+        "text": "3)s H\u0131 4923 LK - 02 .24",
+        "is_valid": false
+    },
+    "roi_image_17.jpg": {
+        "text": "DK  1979   @U 0123",
+        "is_valid": false
+    },
+    "roi_image_170.jpg": {
+        "text": "B 1630 FL",
+        "is_valid": true
+    },
+    "roi_image_171.jpg": {
+        "text": "Upe 1298",
+        "is_valid": false
+    },
+    "roi_image_172.jpg": {
+        "text": "2913 NC 05 2 2",
+        "is_valid": false
+    },
+    "roi_image_173.jpg": {
+        "text": "9oy 87",
+        "is_valid": false
+    },
+    "roi_image_174.jpg": {
+        "text": "B 1095 CKV} 10.2",
+        "is_valid": false
+    },
+    "roi_image_175.jpg": {
+        "text": "4157 K 10 23 H",
+        "is_valid": false
+    },
+    "roi_image_176.jpg": {
+        "text": "B 1080  UYF 03-20",
+        "is_valid": false
+    },
+    "roi_image_177.jpg": {
+        "text": "K 3934 AUC 0 1 . 2 4",
+        "is_valid": false
+    },
+    "roi_image_178.jpg": {
+        "text": "B SPH] 07.25 7037",
+        "is_valid": false
+    },
+    "roi_image_179.jpg": {
+        "text": "6 7649 OK",
+        "is_valid": false
+    },
+    "roi_image_18.jpg": {
+        "text": "H 4942 RK 03 2 8",
+        "is_valid": false
+    },
+    "roi_image_180.jpg": {
+        "text": "BE 2377 MC 01,22",
+        "is_valid": false
+    },
+    "roi_image_181.jpg": {
+        "text": "h 6823 06 25 DK",
+        "is_valid": false
+    },
+    "roi_image_182.jpg": {
+        "text": "H 3160 RK 12 2 7",
+        "is_valid": false
+    },
+    "roi_image_183.jpg": {
+        "text": "@ 2325 P] 03  1 lg 25",
+        "is_valid": false
+    },
+    "roi_image_184.jpg": {
+        "text": "AeGz01",
+        "is_valid": false
+    },
+    "roi_image_185.jpg": {
+        "text": "El h 02 4820 26",
+        "is_valid": false
+    },
+    "roi_image_186.jpg": {
+        "text": "H 3041 MV 5 01 '25",
+        "is_valid": false
+    },
+    "roi_image_187.jpg": {
+        "text": "H 4063 MB vlaf ' \" 12 ' 23 ecs",
+        "is_valid": false
+    },
+    "roi_image_188.jpg": {
+        "text": "2 5249 TI 09 25 ",
+        "is_valid": false
+    },
+    "roi_image_189.jpg": {
+        "text": "H 4662 AhC 0 9 27",
+        "is_valid": false
+    },
+    "roi_image_19.jpg": {
+        "text": "1 6277 1 1 ,20 Ch",
+        "is_valid": false
+    },
+    "roi_image_190.jpg": {
+        "text": "1 5293 03 2L LK",
+        "is_valid": false
+    },
+    "roi_image_191.jpg": {
+        "text": "H 5052 0K 0 6 2 7 2",
+        "is_valid": false
+    },
+    "roi_image_192.jpg": {
+        "text": "YB 8619 BMss7c",
+        "is_valid": false
+    },
+    "roi_image_193.jpg": {
+        "text": "H 3590 EK 08 '25",
+        "is_valid": false
+    },
+    "roi_image_194.jpg": {
+        "text": "AA 8214 PB",
+        "is_valid": true
+    },
+    "roi_image_195.jpg": {
+        "text": "'40*6394 ASD 03 28",
+        "is_valid": false
+    },
+    "roi_image_196.jpg": {
+        "text": "B 2022 Ahy",
+        "is_valid": false
+    },
+    "roi_image_197.jpg": {
+        "text": "5 791",
+        "is_valid": false
+    },
+    "roi_image_198.jpg": {
+        "text": "HH 2698 WI 0 2 2 6",
+        "is_valid": false
+    },
+    "roi_image_199.jpg": {
+        "text": "99 r DK",
+        "is_valid": false
+    },
+    "roi_image_2.jpg": {
+        "text": "G 3779 AJFI 02 28",
+        "is_valid": false
+    },
+    "roi_image_20.jpg": {
+        "text": "B 2/56",
+        "is_valid": false
+    },
+    "roi_image_200.jpg": {
+        "text": "B 03*23 SJV 1063",
+        "is_valid": false
+    },
+    "roi_image_201.jpg": {
+        "text": "B 1665 CKC 03.2 0",
+        "is_valid": false
+    },
+    "roi_image_202.jpg": {
+        "text": "H 5602 Cv FEB Uxsw 02 23",
+        "is_valid": false
+    },
+    "roi_image_203.jpg": {
+        "text": "B 1973 CFZ",
+        "is_valid": true
+    },
+    "roi_image_204.jpg": {
+        "text": "2066  @7 07 18",
+        "is_valid": false
+    },
+    "roi_image_205.jpg": {
+        "text": "6 2362 42 0 9 '22",
+        "is_valid": false
+    },
+    "roi_image_206.jpg": {
+        "text": "",
+        "is_valid": false
+    },
+    "roi_image_207.jpg": {
+        "text": "2771 KZ 5 0 3 2 6 ; K",
+        "is_valid": false
+    },
+    "roi_image_208.jpg": {
+        "text": "il 31 69 [ 02 2 6 W",
+        "is_valid": false
+    },
+    "roi_image_209.jpg": {
+        "text": "1 3138 BK 4 09 ,24 :",
+        "is_valid": false
+    },
+    "roi_image_21.jpg": {
+        "text": "6 4539 Yo 1*28",
+        "is_valid": false
+    },
+    "roi_image_210.jpg": {
+        "text": "H 2879 PB 07 25 [",
+        "is_valid": false
+    },
+    "roi_image_211.jpg": {
+        "text": "DK 463 AH 07 , 1 8",
+        "is_valid": false
+    },
+    "roi_image_212.jpg": {
+        "text": "6122 AGG 0 / .28 H",
+        "is_valid": false
+    },
+    "roi_image_213.jpg": {
+        "text": "731",
+        "is_valid": false
+    },
+    "roi_image_214.jpg": {
+        "text": "Be 3400 GJ 02 ' 27",
+        "is_valid": false
+    },
+    "roi_image_215.jpg": {
+        "text": "BA 1541",
+        "is_valid": false
+    },
+    "roi_image_216.jpg": {
+        "text": "S 1470 WJ 04 ~17",
+        "is_valid": false
+    },
+    "roi_image_217.jpg": {
+        "text": "H 6106 JK 5 08 27",
+        "is_valid": false
+    },
+    "roi_image_218.jpg": {
+        "text": "H 3253 CK @ 12 . 24",
+        "is_valid": false
+    },
+    "roi_image_219.jpg": {
+        "text": "E042 h 2254 LK QieniosiiP 10 23 RFC 8",
+        "is_valid": false
+    },
+    "roi_image_22.jpg": {
+        "text": "H 2964 BK 4 08 24",
+        "is_valid": false
+    },
+    "roi_image_220.jpg": {
+        "text": "IP 7151' EP 12.29",
+        "is_valid": false
+    },
+    "roi_image_221.jpg": {
+        "text": "6 4539 Yo 1'28",
+        "is_valid": false
+    },
+    "roi_image_222.jpg": {
+        "text": " IR 6637 MP 8 06-22/",
+        "is_valid": false
+    },
+    "roi_image_223.jpg": {
+        "text": "H 5851 Ajc 02 28",
+        "is_valid": false
+    },
+    "roi_image_224.jpg": {
+        "text": "4 4079 UB) 08 25",
+        "is_valid": false
+    },
+    "roi_image_225.jpg": {
+        "text": "B 1440 Bus",
+        "is_valid": false
+    },
+    "roi_image_226.jpg": {
+        "text": "H 6877 UC 1 1 . 27",
+        "is_valid": false
+    },
+    "roi_image_227.jpg": {
+        "text": "HON= H 5139 KK 0 7 23",
+        "is_valid": false
+    },
+    "roi_image_228.jpg": {
+        "text": "4 6132 YG 3 02 2 6",
+        "is_valid": false
+    },
+    "roi_image_229.jpg": {
+        "text": "5998 FB 0 4 2 4 H",
+        "is_valid": false
+    },
+    "roi_image_23.jpg": {
+        "text": "H 259/ WL 0 5 27 1",
+        "is_valid": false
+    },
+    "roi_image_230.jpg": {
+        "text": "7966 RFR}",
+        "is_valid": false
+    },
+    "roi_image_231.jpg": {
+        "text": "H 5683 PK 09 26",
+        "is_valid": false
+    },
+    "roi_image_232.jpg": {
+        "text": "HSM",
+        "is_valid": false
+    },
+    "roi_image_233.jpg": {
+        "text": "H 6240 KK 0 9 .2 3",
+        "is_valid": false
+    },
+    "roi_image_234.jpg": {
+        "text": "h 3282 KK 8 0l 28",
+        "is_valid": false
+    },
+    "roi_image_235.jpg": {
+        "text": "DH 3183 KT 02 28",
+        "is_valid": false
+    },
+    "roi_image_236.jpg": {
+        "text": " 6710 UB RFCI I 25  0",
+        "is_valid": false
+    },
+    "roi_image_237.jpg": {
+        "text": "Aa 8174 CF",
+        "is_valid": false
+    },
+    "roi_image_238.jpg": {
+        "text": "0 5806 LV 10 .24",
+        "is_valid": false
+    },
+    "roi_image_239.jpg": {
+        "text": "BA 1541 92910",
+        "is_valid": false
+    },
+    "roi_image_24.jpg": {
+        "text": "H 3481 UB 0 7 .25",
+        "is_valid": false
+    },
+    "roi_image_240.jpg": {
+        "text": "H 4941 4V 03 24",
+        "is_valid": false
+    },
+    "roi_image_241.jpg": {
+        "text": "8 8 5492 RC 2 09 . 1 27",
+        "is_valid": false
+    },
+    "roi_image_242.jpg": {
+        "text": "6542 JI 08 .24",
+        "is_valid": false
+    },
+    "roi_image_243.jpg": {
+        "text": "AD 8714 OT",
+        "is_valid": true
+    },
+    "roi_image_244.jpg": {
+        "text": "Ibh 2618 MA 02*27",
+        "is_valid": false
+    },
+    "roi_image_245.jpg": {
+        "text": "6152 1 0 5 ' 2 6 Y",
+        "is_valid": false
+    },
+    "roi_image_246.jpg": {
+        "text": "",
+        "is_valid": false
+    },
+    "roi_image_247.jpg": {
+        "text": "H 6998 0 7 23 ZL",
+        "is_valid": false
+    },
+    "roi_image_248.jpg": {
+        "text": "H 6426 ALC 06 23",
+        "is_valid": false
+    },
+    "roi_image_249.jpg": {
+        "text": "7HI",
+        "is_valid": false
+    },
+    "roi_image_25.jpg": {
+        "text": "h 2276 FI 03 .2L",
+        "is_valid": false
+    },
+    "roi_image_250.jpg": {
+        "text": "IN 1075 CMI 06 : 2 |",
+        "is_valid": false
+    },
+    "roi_image_251.jpg": {
+        "text": "OK 1004AL",
+        "is_valid": false
+    },
+    "roi_image_252.jpg": {
+        "text": " 5356 Wt S;C , 1 1 < 23",
+        "is_valid": false
+    },
+    "roi_image_253.jpg": {
+        "text": "2306 { 02 25 A",
+        "is_valid": false
+    },
+    "roi_image_254.jpg": {
+        "text": "H 5396 FK 03 2 6",
+        "is_valid": false
+    },
+    "roi_image_255.jpg": {
+        "text": "4 5176 BK 5 2 ; 10 9",
+        "is_valid": false
+    },
+    "roi_image_256.jpg": {
+        "text": "H 3466 MJ 05 ' 23 0% ALCOHOL IMPROVED FORMULA",
+        "is_valid": false
+    },
+    "roi_image_257.jpg": {
+        "text": "H 3285 CV 8 03 2 8",
+        "is_valid": false
+    },
+    "roi_image_258.jpg": {
+        "text": "H 2518 OK HONDA 12226",
+        "is_valid": false
+    },
+    "roi_image_259.jpg": {
+        "text": "[BA 7136 LM Qa <",
+        "is_valid": false
+    },
+    "roi_image_26.jpg": {
+        "text": "H 4637 AnC 2 7 08 .23",
+        "is_valid": false
+    },
+    "roi_image_260.jpg": {
+        "text": "DK   1801 AT 0 |",
+        "is_valid": false
+    },
+    "roi_image_261.jpg": {
+        "text": "4879 SG 10 2 6 H",
+        "is_valid": false
+    },
+    "roi_image_262.jpg": {
+        "text": "B  7192 FJe",
+        "is_valid": false
+    },
+    "roi_image_263.jpg": {
+        "text": "MJ] KT 05 6697",
+        "is_valid": false
+    },
+    "roi_image_264.jpg": {
+        "text": "h 6272 HB 05 24",
+        "is_valid": false
+    },
+    "roi_image_265.jpg": {
+        "text": "6 3540 2 0 /.26 Dy",
+        "is_valid": false
+    },
+    "roi_image_266.jpg": {
+        "text": "2403 PK 1 1 0 2 7",
+        "is_valid": false
+    },
+    "roi_image_267.jpg": {
+        "text": "874NZ",
+        "is_valid": false
+    },
+    "roi_image_268.jpg": {
+        "text": "BM   8334",
+        "is_valid": false
+    },
+    "roi_image_269.jpg": {
+        "text": "AB 1519  RN",
+        "is_valid": false
+    },
+    "roi_image_27.jpg": {
+        "text": "0k   1026 HP",
+        "is_valid": false
+    },
+    "roi_image_270.jpg": {
+        "text": "DK_386 02 ooa2",
+        "is_valid": false
+    },
+    "roi_image_271.jpg": {
+        "text": "H 5478 MK 8 1 1 2 L",
+        "is_valid": false
+    },
+    "roi_image_272.jpg": {
+        "text": "h 3590 Rn 0 1 25",
+        "is_valid": false
+    },
+    "roi_image_273.jpg": {
+        "text": "; 8 2334   09 25 Th 4",
+        "is_valid": false
+    },
+    "roi_image_274.jpg": {
+        "text": "H 2447 ALC 2 04 0 23",
+        "is_valid": false
+    },
+    "roi_image_275.jpg": {
+        "text": "EL M4 08 821 6008",
+        "is_valid": false
+    },
+    "roi_image_276.jpg": {
+        "text": "",
+        "is_valid": false
+    },
+    "roi_image_277.jpg": {
+        "text": "h 2207 K 08 ' 23",
+        "is_valid": false
+    },
+    "roi_image_278.jpg": {
+        "text": "2706 BK 08 \" 22 4",
+        "is_valid": false
+    },
+    "roi_image_279.jpg": {
+        "text": "",
+        "is_valid": false
+    },
+    "roi_image_28.jpg": {
+        "text": "AB   1291 WY}",
+        "is_valid": false
+    },
+    "roi_image_280.jpg": {
+        "text": "e 500 0118",
+        "is_valid": false
+    },
+    "roi_image_281.jpg": {
+        "text": "h 5288 Ho 03 '2<|",
+        "is_valid": false
+    },
+    "roi_image_282.jpg": {
+        "text": "H 4820 PB { 1 1 2 6",
+        "is_valid": false
+    },
+    "roi_image_283.jpg": {
+        "text": "6922 JB 03 1 27",
+        "is_valid": false
+    },
+    "roi_image_284.jpg": {
+        "text": "5054 B l 2 05 255 09 23",
+        "is_valid": false
+    },
+    "roi_image_285.jpg": {
+        "text": "2704 SL  03 27",
+        "is_valid": false
+    },
+    "roi_image_286.jpg": {
+        "text": "H 2089 RK LIONTDZN 10 27",
+        "is_valid": false
+    },
+    "roi_image_287.jpg": {
+        "text": "H 5642 ADC 02 27 2 6",
+        "is_valid": false
+    },
+    "roi_image_288.jpg": {
+        "text": "h 4635 EV 08 22",
+        "is_valid": false
+    },
+    "roi_image_289.jpg": {
+        "text": "H 39 9 JA 1 2 23",
+        "is_valid": false
+    },
+    "roi_image_29.jpg": {
+        "text": "6 6945 NF 11 20",
+        "is_valid": false
+    },
+    "roi_image_290.jpg": {
+        "text": "06 4 5771 '28 0 1",
+        "is_valid": false
+    },
+    "roi_image_291.jpg": {
+        "text": "H 6912 0K 8 1 0 2 7",
+        "is_valid": false
+    },
+    "roi_image_292.jpg": {
+        "text": "AB   1801 LY",
+        "is_valid": false
+    },
+    "roi_image_293.jpg": {
+        "text": "6 2342 VZ 01 22",
+        "is_valid": false
+    },
+    "roi_image_294.jpg": {
+        "text": "1506 80 B",
+        "is_valid": false
+    },
+    "roi_image_295.jpg": {
+        "text": "14",
+        "is_valid": false
+    },
+    "roi_image_296.jpg": {
+        "text": "H 2088 0BI 04 2 7",
+        "is_valid": false
+    },
+    "roi_image_297.jpg": {
+        "text": "0 1461 LA 70422",
+        "is_valid": false
+    },
+    "roi_image_298.jpg": {
+        "text": "H 2218 CK 06 25",
+        "is_valid": false
+    },
+    "roi_image_299.jpg": {
+        "text": "H 25/3 WB 10 '21|",
+        "is_valid": false
+    },
+    "roi_image_3.jpg": {
+        "text": "B 1780 ZFF Q9 21",
+        "is_valid": false
+    },
+    "roi_image_30.jpg": {
+        "text": "6 2579 ALF 5 08.2 <",
+        "is_valid": false
+    },
+    "roi_image_300.jpg": {
+        "text": "lfnte* 4947A&) 4 24 , 5 LcaUTIN) 2623T A1IE 8 348l EUF 0 1 25 51 JTT 2 Guher Fueia Shg Ms 1 1 1221291 : ;",
+        "is_valid": false
+    },
+    "roi_image_301.jpg": {
+        "text": "7644",
+        "is_valid": false
+    },
+    "roi_image_302.jpg": {
+        "text": "H 6233 0B 1 2 2 7",
+        "is_valid": false
+    },
+    "roi_image_303.jpg": {
+        "text": "( 3442 1 9 . 26 YL",
+        "is_valid": false
+    },
+    "roi_image_304.jpg": {
+        "text": "H 4056 II 02 28",
+        "is_valid": false
+    },
+    "roi_image_305.jpg": {
+        "text": "@ H 2685 U HONDA 02 . 28",
+        "is_valid": false
+    },
+    "roi_image_306.jpg": {
+        "text": "W 4324 Nch 5uolawl M 4 328945860k 219 12 26 MOJOKERTO Gop",
+        "is_valid": false
+    },
+    "roi_image_307.jpg": {
+        "text": "H 5375 JB 10 2 7",
+        "is_valid": false
+    },
+    "roi_image_308.jpg": {
+        "text": "4931 FMZI 0 1 23 2 8 g",
+        "is_valid": false
+    },
+    "roi_image_309.jpg": {
+        "text": "Ad 3725 EP",
+        "is_valid": false
+    },
+    "roi_image_31.jpg": {
+        "text": "DT^ 17870E]",
+        "is_valid": false
+    },
+    "roi_image_310.jpg": {
+        "text": "0H 8787",
+        "is_valid": false
+    },
+    "roi_image_311.jpg": {
+        "text": "H 5067 FK 03 2 6",
+        "is_valid": false
+    },
+    "roi_image_312.jpg": {
+        "text": "",
+        "is_valid": false
+    },
+    "roi_image_313.jpg": {
+        "text": "aw| 7883",
+        "is_valid": false
+    },
+    "roi_image_314.jpg": {
+        "text": "",
+        "is_valid": false
+    },
+    "roi_image_315.jpg": {
+        "text": "9506   PA",
+        "is_valid": false
+    },
+    "roi_image_316.jpg": {
+        "text": "PA 1391 JB 09 * 2 2",
+        "is_valid": false
+    },
+    "roi_image_317.jpg": {
+        "text": "9 4857 ANC 2 4 Smile 0 8 23 \u00e9",
+        "is_valid": false
+    },
+    "roi_image_318.jpg": {
+        "text": "H 6017 BC 09 26",
+        "is_valid": false
+    },
+    "roi_image_319.jpg": {
+        "text": "h 5968 PB 0 1 '26",
+        "is_valid": false
+    },
+    "roi_image_32.jpg": {
+        "text": "H 2113 LK 10 .23",
+        "is_valid": false
+    },
+    "roi_image_320.jpg": {
+        "text": "6  7966 RF8",
+        "is_valid": false
+    },
+    "roi_image_321.jpg": {
+        "text": "DK' 877'CI|",
+        "is_valid": false
+    },
+    "roi_image_322.jpg": {
+        "text": "8 86Y Mnl",
+        "is_valid": false
+    },
+    "roi_image_323.jpg": {
+        "text": "H 5258 LK 2 03 24",
+        "is_valid": false
+    },
+    "roi_image_324.jpg": {
+        "text": "B 2328 KKL",
+        "is_valid": true
+    },
+    "roi_image_325.jpg": {
+        "text": "H 6680 8C 0 1 .25",
+        "is_valid": false
+    },
+    "roi_image_326.jpg": {
+        "text": "h 9693 HC 07 23",
+        "is_valid": false
+    },
+    "roi_image_327.jpg": {
+        "text": "H 6713 AAC 08 . 26",
+        "is_valid": false
+    },
+    "roi_image_328.jpg": {
+        "text": "8 85 56]",
+        "is_valid": false
+    },
+    "roi_image_329.jpg": {
+        "text": "Ad 4559 Aw 0 | '26",
+        "is_valid": false
+    },
+    "roi_image_33.jpg": {
+        "text": "H 5907 LI 03  28",
+        "is_valid": false
+    },
+    "roi_image_330.jpg": {
+        "text": "3882 HK 3 7) 02 .27 A",
+        "is_valid": false
+    },
+    "roi_image_331.jpg": {
+        "text": "AB1449DH",
+        "is_valid": false
+    },
+    "roi_image_332.jpg": {
+        "text": "h 6379 DK 06 25 9",
+        "is_valid": false
+    },
+    "roi_image_333.jpg": {
+        "text": "H 51 KK 1 1 22 78",
+        "is_valid": false
+    },
+    "roi_image_334.jpg": {
+        "text": "AD DHI 1 1 . 2 6 4077",
+        "is_valid": false
+    },
+    "roi_image_335.jpg": {
+        "text": "B RFS 1549",
+        "is_valid": false
+    },
+    "roi_image_336.jpg": {
+        "text": "H 5428 CO 10 *27",
+        "is_valid": false
+    },
+    "roi_image_337.jpg": {
+        "text": "H 2062 AhC 09 27",
+        "is_valid": false
+    },
+    "roi_image_338.jpg": {
+        "text": "& 6263 [S ~ 09 '22",
+        "is_valid": false
+    },
+    "roi_image_339.jpg": {
+        "text": "h 6656 UB ' 1 1 '25",
+        "is_valid": false
+    },
+    "roi_image_34.jpg": {
+        "text": "6021 SB 06 '24 H",
+        "is_valid": false
+    },
+    "roi_image_340.jpg": {
+        "text": "6860 ZB 5 08 23 h",
+        "is_valid": false
+    },
+    "roi_image_341.jpg": {
+        "text": "H 168 0 9 2 7 YB L",
+        "is_valid": false
+    },
+    "roi_image_342.jpg": {
+        "text": "H 3982 DP 0 1 6 25",
+        "is_valid": false
+    },
+    "roi_image_343.jpg": {
+        "text": "H 2246 HI 06 19",
+        "is_valid": false
+    },
+    "roi_image_344.jpg": {
+        "text": "o 8  7889",
+        "is_valid": false
+    },
+    "roi_image_345.jpg": {
+        "text": "90  7861 XN]",
+        "is_valid": false
+    },
+    "roi_image_346.jpg": {
+        "text": "H 3069 PK 0 4 2 6",
+        "is_valid": false
+    },
+    "roi_image_347.jpg": {
+        "text": "RES B1426",
+        "is_valid": false
+    },
+    "roi_image_348.jpg": {
+        "text": "F 7308",
+        "is_valid": false
+    },
+    "roi_image_349.jpg": {
+        "text": "H 2251 RB 0 02 28",
+        "is_valid": false
+    },
+    "roi_image_35.jpg": {
+        "text": "H 6814 0C 02 2 5",
+        "is_valid": false
+    },
+    "roi_image_350.jpg": {
+        "text": "H 3424 WC 0 8 2 1",
+        "is_valid": false
+    },
+    "roi_image_351.jpg": {
+        "text": "",
+        "is_valid": false
+    },
+    "roi_image_352.jpg": {
+        "text": "H 6159 DKI 05 25",
+        "is_valid": false
+    },
+    "roi_image_353.jpg": {
+        "text": "4 5641 OL 12 - 24",
+        "is_valid": false
+    },
+    "roi_image_354.jpg": {
+        "text": "N 888 B 0au",
+        "is_valid": false
+    },
+    "roi_image_355.jpg": {
+        "text": "h 5745 FK g 03 '26",
+        "is_valid": false
+    },
+    "roi_image_356.jpg": {
+        "text": "H 3871 SV| 2 09 <25",
+        "is_valid": false
+    },
+    "roi_image_357.jpg": {
+        "text": "6925 UL 06 23 :",
+        "is_valid": false
+    },
+    "roi_image_358.jpg": {
+        "text": "4086 : 07 .25 HK H",
+        "is_valid": false
+    },
+    "roi_image_359.jpg": {
+        "text": "849 PRY}",
+        "is_valid": false
+    },
+    "roi_image_36.jpg": {
+        "text": "S 4136 Sl ARD 05 2 7",
+        "is_valid": false
+    },
+    "roi_image_360.jpg": {
+        "text": "",
+        "is_valid": false
+    },
+    "roi_image_361.jpg": {
+        "text": "0  2452_SFV",
+        "is_valid": false
+    },
+    "roi_image_362.jpg": {
+        "text": "Kb 177 ee",
+        "is_valid": false
+    },
+    "roi_image_363.jpg": {
+        "text": "6 2 3526 A6 0 3 25",
+        "is_valid": false
+    },
+    "roi_image_364.jpg": {
+        "text": "8 2506TIS",
+        "is_valid": false
+    },
+    "roi_image_365.jpg": {
+        "text": "82377 SBN",
+        "is_valid": false
+    },
+    "roi_image_366.jpg": {
+        "text": "6 2/71 XG  CifE1 0 2",
+        "is_valid": false
+    },
+    "roi_image_367.jpg": {
+        "text": "1635 NOZ",
+        "is_valid": false
+    },
+    "roi_image_368.jpg": {
+        "text": "4 567 OL 1 Bonsu Hff Sibulsantai 04 26",
+        "is_valid": false
+    },
+    "roi_image_369.jpg": {
+        "text": "IH 8 UF 06 27 5 UI",
+        "is_valid": false
+    },
+    "roi_image_37.jpg": {
+        "text": "BH ' 1384   00",
+        "is_valid": false
+    },
+    "roi_image_370.jpg": {
+        "text": "AD 6899 ; LDI 12 '26 DVEIN MHE HICHER S7ACE YAMAHA YAMAHA TEEPAN SEMZ K",
+        "is_valid": false
+    },
+    "roi_image_371.jpg": {
+        "text": "AB 4622 FOll Jeco) VJD /  12 < 26",
+        "is_valid": false
+    },
+    "roi_image_372.jpg": {
+        "text": "H 5059 RH 06 25",
+        "is_valid": false
+    },
+    "roi_image_373.jpg": {
+        "text": "HH 4264 RK 0 2 ' 2 8",
+        "is_valid": false
+    },
+    "roi_image_374.jpg": {
+        "text": "6 5278 EG 4une 26 ~ 9",
+        "is_valid": false
+    },
+    "roi_image_375.jpg": {
+        "text": "AD2025 RU 8 0 | - 25",
+        "is_valid": false
+    },
+    "roi_image_376.jpg": {
+        "text": "",
+        "is_valid": false
+    },
+    "roi_image_377.jpg": {
+        "text": "JH 4481 AFW scrhmaw _ 04 27",
+        "is_valid": false
+    },
+    "roi_image_378.jpg": {
+        "text": "3320 FK 01 1 '26",
+        "is_valid": false
+    },
+    "roi_image_379.jpg": {
+        "text": "2 Ad5829840",
+        "is_valid": false
+    },
+    "roi_image_38.jpg": {
+        "text": "4 535 KKI 08 23 7",
+        "is_valid": false
+    },
+    "roi_image_380.jpg": {
+        "text": "h 6805 VB 3 08 ' 26",
+        "is_valid": false
+    },
+    "roi_image_381.jpg": {
+        "text": "H 6256 OK HONDA 0 9 27",
+        "is_valid": false
+    },
+    "roi_image_382.jpg": {
+        "text": "B FV 2823 07 , 1 8",
+        "is_valid": false
+    },
+    "roi_image_383.jpg": {
+        "text": "",
+        "is_valid": false
+    },
+    "roi_image_384.jpg": {
+        "text": "7632",
+        "is_valid": false
+    },
+    "roi_image_385.jpg": {
+        "text": "H 3531 FB 0  (o(qs 12 022",
+        "is_valid": false
+    },
+    "roi_image_386.jpg": {
+        "text": "H 4311 B I 09 ' 23",
+        "is_valid": false
+    },
+    "roi_image_387.jpg": {
+        "text": "7 6524 Ak 0 7 2 2",
+        "is_valid": false
+    },
+    "roi_image_388.jpg": {
+        "text": "B6423 GLC 02 2 3",
+        "is_valid": false
+    },
+    "roi_image_389.jpg": {
+        "text": "GF IH 8672",
+        "is_valid": false
+    },
+    "roi_image_39.jpg": {
+        "text": "AD,3324 IT 08 26",
+        "is_valid": false
+    },
+    "roi_image_390.jpg": {
+        "text": "H 5778 0B a1 2 7",
+        "is_valid": false
+    },
+    "roi_image_391.jpg": {
+        "text": "H 6170 0K 0 9 2 7",
+        "is_valid": false
+    },
+    "roi_image_392.jpg": {
+        "text": "K 3293 PR] 11 '24",
+        "is_valid": false
+    },
+    "roi_image_393.jpg": {
+        "text": "FOL2 B 5791 TKR KVONDAN 05'27",
+        "is_valid": false
+    },
+    "roi_image_394.jpg": {
+        "text": "5448 MK 4 2 4",
+        "is_valid": false
+    },
+    "roi_image_395.jpg": {
+        "text": "w 9 g 10 25 4247 [h AD 9",
+        "is_valid": false
+    },
+    "roi_image_396.jpg": {
+        "text": "H 6725 EK 5 1 1 2 5",
+        "is_valid": false
+    },
+    "roi_image_397.jpg": {
+        "text": "H 3137 RD g ; 3 9 Smile 05 6 26",
+        "is_valid": false
+    },
+    "roi_image_398.jpg": {
+        "text": "7125  TZM 9222",
+        "is_valid": false
+    },
+    "roi_image_399.jpg": {
+        "text": "1727 T",
+        "is_valid": false
+    },
+    "roi_image_4.jpg": {
+        "text": "3084 HKI 0 1 27",
+        "is_valid": false
+    },
+    "roi_image_40.jpg": {
+        "text": "5177",
+        "is_valid": false
+    },
+    "roi_image_400.jpg": {
+        "text": "@ 1 5256 6I { 05 24",
+        "is_valid": false
+    },
+    "roi_image_401.jpg": {
+        "text": "B ED [",
+        "is_valid": false
+    },
+    "roi_image_402.jpg": {
+        "text": "1597 8 6890 AEC @ 05 8 27",
+        "is_valid": false
+    },
+    "roi_image_403.jpg": {
+        "text": "6484 HL 08 ' 25 h",
+        "is_valid": false
+    },
+    "roi_image_404.jpg": {
+        "text": "K 4997 XC 9 10 2 6 ) 1",
+        "is_valid": false
+    },
+    "roi_image_405.jpg": {
+        "text": "B 1767 NJ 07,22",
+        "is_valid": false
+    },
+    "roi_image_406.jpg": {
+        "text": "B 5957 BGo YAMAHA 2= 1 1 27",
+        "is_valid": false
+    },
+    "roi_image_41.jpg": {
+        "text": "6187 Kv 09 2/",
+        "is_valid": false
+    },
+    "roi_image_42.jpg": {
+        "text": "B 1595 SCR",
+        "is_valid": true
+    },
+    "roi_image_43.jpg": {
+        "text": "Ug H 7982",
+        "is_valid": false
+    },
+    "roi_image_44.jpg": {
+        "text": "3828 HB 2 \" 0 4 26 1",
+        "is_valid": false
+    },
+    "roi_image_45.jpg": {
+        "text": "DB",
+        "is_valid": false
+    },
+    "roi_image_46.jpg": {
+        "text": "h 2517 AJC 0 1 28",
+        "is_valid": false
+    },
+    "roi_image_47.jpg": {
+        "text": "H 4768 YB 9 1 0 27",
+        "is_valid": false
+    },
+    "roi_image_48.jpg": {
+        "text": "6875 PK 11 '26 4",
+        "is_valid": false
+    },
+    "roi_image_49.jpg": {
+        "text": "K 3",
+        "is_valid": false
+    },
+    "roi_image_5.jpg": {
+        "text": "H 5197 NK | HOIIDA 10 .25",
+        "is_valid": false
+    },
+    "roi_image_50.jpg": {
+        "text": "7898 STK",
+        "is_valid": false
+    },
+    "roi_image_51.jpg": {
+        "text": "H 5824 JK 5 1 2 2 7/",
+        "is_valid": false
+    },
+    "roi_image_52.jpg": {
+        "text": "40 8926 01 , Ht",
+        "is_valid": false
+    },
+    "roi_image_53.jpg": {
+        "text": "4986 UB 09 ' 25 H 1",
+        "is_valid": false
+    },
+    "roi_image_54.jpg": {
+        "text": "h 2392 AUC 2 08 . 24",
+        "is_valid": false
+    },
+    "roi_image_55.jpg": {
+        "text": "3239 @K g 02 ' 27 H",
+        "is_valid": false
+    },
+    "roi_image_56.jpg": {
+        "text": "H 4205 D[ 5 12,23",
+        "is_valid": false
+    },
+    "roi_image_57.jpg": {
+        "text": "H 5704 0 KI 08 2 7",
+        "is_valid": false
+    },
+    "roi_image_58.jpg": {
+        "text": "187 E2]",
+        "is_valid": false
+    },
+    "roi_image_59.jpg": {
+        "text": "Aa /103 KN { 05 23",
+        "is_valid": false
+    },
+    "roi_image_6.jpg": {
+        "text": "DK 1246 Fo",
+        "is_valid": false
+    },
+    "roi_image_60.jpg": {
+        "text": "B   868 DSY",
+        "is_valid": false
+    },
+    "roi_image_61.jpg": {
+        "text": "H 6256 WC 1 0 2 2 5 2 A",
+        "is_valid": false
+    },
+    "roi_image_62.jpg": {
+        "text": "11 2 5 8K3899D0",
+        "is_valid": false
+    },
+    "roi_image_63.jpg": {
+        "text": "542 EA 06 28 h",
+        "is_valid": false
+    },
+    "roi_image_64.jpg": {
+        "text": "DK 1303 F",
+        "is_valid": true
+    },
+    "roi_image_65.jpg": {
+        "text": "h 2 08 '25 Sv 2736",
+        "is_valid": false
+    },
+    "roi_image_66.jpg": {
+        "text": "5053 Y 10 2 7 B",
+        "is_valid": false
+    },
+    "roi_image_67.jpg": {
+        "text": "8 21545 SZS",
+        "is_valid": false
+    },
+    "roi_image_68.jpg": {
+        "text": "2019 WB 3 09 26 h",
+        "is_valid": false
+    },
+    "roi_image_69.jpg": {
+        "text": "IB 1321 Go",
+        "is_valid": false
+    },
+    "roi_image_7.jpg": {
+        "text": "6 380L 80 128",
+        "is_valid": false
+    },
+    "roi_image_70.jpg": {
+        "text": "[DK 1913 DL",
+        "is_valid": false
+    },
+    "roi_image_71.jpg": {
+        "text": "8 1818 \u20acei",
+        "is_valid": false
+    },
+    "roi_image_72.jpg": {
+        "text": "H 6209 HL 0 1 28",
+        "is_valid": false
+    },
+    "roi_image_73.jpg": {
+        "text": "BE 2835 BL",
+        "is_valid": true
+    },
+    "roi_image_74.jpg": {
+        "text": "H 6583 AFC 07 27",
+        "is_valid": false
+    },
+    "roi_image_75.jpg": {
+        "text": "4 2031 E4 07 26",
+        "is_valid": false
+    },
+    "roi_image_76.jpg": {
+        "text": "H 2760 Aew 12 26 2",
+        "is_valid": false
+    },
+    "roi_image_77.jpg": {
+        "text": "1269 Voe B",
+        "is_valid": false
+    },
+    "roi_image_78.jpg": {
+        "text": "H 3471 aXc 03 . 25",
+        "is_valid": false
+    },
+    "roi_image_79.jpg": {
+        "text": "AB 2665' YX",
+        "is_valid": false
+    },
+    "roi_image_8.jpg": {
+        "text": "BV 27 DR 0 ' 2 1",
+        "is_valid": false
+    },
+    "roi_image_80.jpg": {
+        "text": "B 1997 vED",
+        "is_valid": false
+    },
+    "roi_image_81.jpg": {
+        "text": "H 6954 DK 06 25",
+        "is_valid": false
+    },
+    "roi_image_82.jpg": {
+        "text": "4 5031 DK 03 25",
+        "is_valid": false
+    },
+    "roi_image_83.jpg": {
+        "text": "H 5413 UI 3 03 . 28",
+        "is_valid": false
+    },
+    "roi_image_84.jpg": {
+        "text": "H 3372 VC 1 1 27",
+        "is_valid": false
+    },
+    "roi_image_85.jpg": {
+        "text": "IH FK 2830 12625",
+        "is_valid": false
+    },
+    "roi_image_86.jpg": {
+        "text": "H 6572 FC 12 26",
+        "is_valid": false
+    },
+    "roi_image_87.jpg": {
+        "text": "Mw DK 100 6 <",
+        "is_valid": false
+    },
+    "roi_image_88.jpg": {
+        "text": "0 1695 D1",
+        "is_valid": false
+    },
+    "roi_image_89.jpg": {
+        "text": "S Z42",
+        "is_valid": false
+    },
+    "roi_image_9.jpg": {
+        "text": "",
+        "is_valid": false
+    },
+    "roi_image_90.jpg": {
+        "text": "",
+        "is_valid": false
+    },
+    "roi_image_91.jpg": {
+        "text": "O 4 6629 NB ; 06 25",
+        "is_valid": false
+    },
+    "roi_image_92.jpg": {
+        "text": "{ 2063 LK 1 0 26 (8",
+        "is_valid": false
+    },
+    "roi_image_93.jpg": {
+        "text": "Aa 5025 YM 12 .26",
+        "is_valid": false
+    },
+    "roi_image_94.jpg": {
+        "text": "h Oc 5997 12 * 25",
+        "is_valid": false
+    },
+    "roi_image_95.jpg": {
+        "text": "H 2564 DK 0 2 2 5 A@",
+        "is_valid": false
+    },
+    "roi_image_96.jpg": {
+        "text": "Tyo B 7040",
+        "is_valid": false
+    },
+    "roi_image_97.jpg": {
+        "text": "0 { 3673 D I ' 12 26",
+        "is_valid": false
+    },
+    "roi_image_98.jpg": {
+        "text": "H 4261 APE 9 09 26 2",
+        "is_valid": false
+    },
+    "roi_image_99.jpg": {
+        "text": "H 3188 KK 0 4 23",
+        "is_valid": false
+    }
+}
